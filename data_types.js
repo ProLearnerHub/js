@@ -1,7 +1,7 @@
 const data_types = [
   "string", /* a string is data that represents a combination of alphanumeric characters. Is usually written using quotation marks (both single and double are okay, but they're usually written using double quotation marks) */
   0, // an integer is data that represents a whole number
-  1.2, // an float is data that represents a floating point number (with decimals) like below
+  1.2, // an float is data that represents a floating point number (with decimals)
   true, // a boolean is data that represents truthy or falsy values. Can only either be true or false
   {}, // an object is data that represents keyed collections, just like objects in real life. (eg, a person is an object, which has properties and values and method)
   [], // an array is an object which is a collection of different, ordered data. Can contain data of any type. (eg, a class is an array of students and teachers and books and pens)
